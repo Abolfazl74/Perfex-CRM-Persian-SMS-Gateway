@@ -34,7 +34,7 @@ Perfex CRM Persian SMS Gateway | درگاه پیامکی فارسی پرفکس
 
 همچنین پارامترهای آدرس API که جهت تفکیک و سهولت ارسال درخواست های مختلف استفاده میشود نیز در فایل `sms_parsgreen.php` ینز مشخص است که باید مطابق درگاه مورد نظر خود آن را ویرایش کنید:
 
-![alt text](https://file.stuxan.ir/stuxan_parsgreen_sms_5.png)
+![alt text](https://file.stuxan.ir/stuxan_parsgreen_sms_5.png?)
 
 به عنوان مثال در درگاه پارس گرین آدرس ارسال پیامک تکی(بعد از آدرس اصلی API) `Message/SendSms` است.
 
